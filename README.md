@@ -1,6 +1,6 @@
-# hustle
-Cataloging publishers charging for free content
+# Cataloging publishers charging for free content
 
+This respository is a crowdsourced catalog of publishers hustling potential buyers. We document instances where publishers attempt to sell content that should be freely available.
 
 | type | status | price | publication | publisher | title | documentation |
 | ---- | ------ | ----- | ----------- | --------- | ----- | ------ |
